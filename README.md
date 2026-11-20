@@ -23,7 +23,7 @@ A command-line application built with Python to track and manage personal expens
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/mihirkanani8241-art/expense-tracker.git
 cd expense-tracker
 ```
 
